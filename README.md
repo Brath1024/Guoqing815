@@ -1,4 +1,5 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=为了更好的你，也为了更好的世界.&center=true&font=Roboto&size=27" /></div>
+
 # 个人介绍
 
 ​		你们好，我是Brath，一名Java开发方向的新人，请Github各路大佬多多关照。
@@ -40,7 +41,7 @@
 ###### 				目前因项目方向问题，服务器已关停，近期准备重构项目代码，敬请期待。
 
 ###### 				小程序：微信搜索【卡路里轻享笔记】
-
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=分割线在这···&center=true&font=Roboto&size=27" /></div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Guoqing815&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guoqing815b" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guoqing815" /> </div>
