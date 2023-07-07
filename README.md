@@ -45,7 +45,6 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Guoqing815&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guoqing815b" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guoqing815" /> </div>
-![github-contribution-grid-snake](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/github-contribution-grid-snake.svg)
 
 
 
