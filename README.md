@@ -2,7 +2,7 @@
 
 # 个人介绍
 
-​		你们好，我是Brath，一名Java开发方向的新人，请Github各路大佬多多关照。
+​		我是一名00后Java方向码农，Brath，这是我的个人博客【https://www.brath.top】请多多关照。
 
 # 产品介绍
 
