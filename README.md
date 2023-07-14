@@ -2,7 +2,7 @@
 
 # 个人介绍
 
-​		我是一名00后Java方向码农，Brath，这是我的<a href="https://brath.top/">个人博客</a>
+​		一名00后Java方向码农，Brath <a href="https://brath.top/">个人博客</a>
 
 # 产品介绍
 
