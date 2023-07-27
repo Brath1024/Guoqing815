@@ -15,7 +15,6 @@
 
 ![image-20230727080623006](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230727080623006.png)
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=分割线在这···&center=true&font=Roboto&size=27" /></div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Guoqing815&show_icons=true&theme=tokyonight" /> </div>
 
 
