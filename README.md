@@ -17,10 +17,6 @@
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=分割线在这···&center=true&font=Roboto&size=27" /></div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Guoqing815&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guoqing815b" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guoqing815" /> </div>
-
-
 
 
 
