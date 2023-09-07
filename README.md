@@ -9,7 +9,7 @@
 
 ###### 	荔知是一款在线AI智能问答网站，二次开发于Github热门项目，目前支持免费使用。使用前请关注：【InterviewCoder】公众号，感谢支持！
 
-###### 	网页端：www.brath.cn
+###### 	网页端：[www.lizhiai.cn](http://www.lizhiai.cn/)
 
 ######  荔知小程序：<a href="https://mp.weixin.qq.com/s/si1B9RdcUP9lkJR-49540w">微信搜索“荔知知道”</a>
 
