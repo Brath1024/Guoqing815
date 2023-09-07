@@ -13,7 +13,7 @@
 
 ######  荔知小程序：<a href="https://mp.weixin.qq.com/s/si1B9RdcUP9lkJR-49540w">微信搜索“荔知知道”</a>
 
- ![image-20230727080623006](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230727080623006.png) 
+ ![image-20230727080623006](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230907172703060.png) 
 
 
 
