@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=为了更好的你，也为了更好的世界.&center=true&font=Roboto&size=27" /></div>
+![image](https://github.com/Guoqing815/Guoqing815/assets/91259252/fe97b31b-daed-4cf6-b196-96a5d2a8cab8)<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=为了更好的你，也为了更好的世界.&center=true&font=Roboto&size=27" /></div>
 
 # 个人介绍
 
@@ -13,7 +13,7 @@
 
 ######  荔知小程序：<a href="https://mp.weixin.qq.com/s/si1B9RdcUP9lkJR-49540w">微信搜索“荔知知道”</a>
 
- ![image-20230727080623006](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20230907172703060.png) 
+![image-20231027124121176](C:\Users\2718\AppData\Roaming\Typora\typora-user-images\image-20231027124121176.png)
 
 
 
