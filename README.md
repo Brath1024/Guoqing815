@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你不知道的, 荔知AI都知道! &center=true&font=Roboto&size=30&color=9f1239" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你不知道的, 荔知AI都知道!&center=true&font=Roboto&size=30&color=9f1239" /></div>
 
 # 个人介绍
 
