@@ -11,13 +11,6 @@
 
 ###### 	网页端：[www.brath.cn](http://www.brath.cn/)
 
-######  荔知小程序：<a href="https://mp.weixin.qq.com/s/si1B9RdcUP9lkJR-49540w">微信搜索“荔知知道”</a>
-
-![image-20231027124349824]([荔知AI](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231222113423244.png)https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231222113423244.png)
-
-
-
-
 
 
 
