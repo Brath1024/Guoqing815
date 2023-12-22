@@ -1,4 +1,4 @@
-![image](https://github.com/Guoqing815/Guoqing815/assets/91259252/fe97b31b-daed-4cf6-b196-96a5d2a8cab8)<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=为了更好的你，也为了更好的世界.&center=true&font=Roboto&size=27" /></div>
+![image](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231222113423244.png)<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=为了更好的你，也为了更好的世界.&center=true&font=Roboto&size=27" /></div>
 
 # 个人介绍
 
