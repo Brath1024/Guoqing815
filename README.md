@@ -1,4 +1,5 @@
-![image](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231222113423244.png)<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你不知道?荔知知道!&center=true&font=Roboto&size=30&color=FF0000" /></div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=你不知道?荔知知道!&center=true&font=Roboto&size=30&color=9f1239" /></div>
+![image](https://brath4.oss-cn-shenzhen.aliyuncs.com/picgo/image-20231222113423244.png)
 
 # 个人介绍
 
